@@ -1,4 +1,4 @@
-# Mortgage Lending Analytics - Azure Databricks Medallion Pipeline | ![Dataset](https://www.consumerfinance.gov/data-research/hmda/historic-data/)
+# Mortgage Lending Analytics - Azure Databricks Medallion Pipeline | [Dataset](https://www.consumerfinance.gov/data-research/hmda/historic-data/)
 
 An end-to-end data engineering pipeline that ingests U.S. mortgage lending data (HMDA, 2013–2017), transforms it through a medallion (Bronze → Silver → Gold) architecture on Azure Databricks, and surfaces analytical KPIs including fair-lending approval-rate gaps across demographic groups.
 
